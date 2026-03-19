@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log( 'version 1 is updated0')
+console.log( 'version 1 should be updated')
